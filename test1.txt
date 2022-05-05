@@ -7,6 +7,4 @@ add func2 to develop
 code conclick1
 code conclick2
 
-
-add test1
-add test2
+add test3
