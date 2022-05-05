@@ -3799,4 +3799,6 @@
     },
     "platform-dev": [],
     "plugin-api-version": "1.1.0"
+
+    add func3
 }
